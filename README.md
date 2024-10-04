@@ -3,6 +3,25 @@
 
 This project implements a FastAPI server that processes natural language queries using OpenAI embeddings and Pinecone for vector storage and retrieval. The chatbot allows users to start new chats, store chat histories, and retrieve responses using the LangChain framework.
 
+## Chatbot Interface
+
+Here's how the chatbot interface looks when running locally:
+
+### 1. Query Processing Screen
+![Chatbot Interface](../images/image2.png)
+
+This screen shows the chatbot's query input and response section.
+
+### 2. Chat Histories
+![Chat Histories](../images/image1.png)
+
+This is how the chat history feature looks like in action, allowing users to resume previous conversations.
+
+### 2. Mobile view
+![Chat Histories](../images/image3.png)
+this screen shows how it looks in mobile
+
+
 ## Features
 - **Query Processing**: Handles user queries and returns responses using OpenAI's language model.
 - **Pinecone Vector Store**: Stores and retrieves vectorized queries and responses.
