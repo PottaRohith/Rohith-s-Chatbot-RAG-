@@ -8,17 +8,17 @@ This project implements a FastAPI server that processes natural language queries
 Here's how the chatbot interface looks when running locally:
 
 ### 1. Query Processing Screen
-![Chatbot Interface](../images/image2.png)
+![Chatbot Interface](./images/image2.png)
 
 This screen shows the chatbot's query input and response section.
 
 ### 2. Chat Histories
-![Chat Histories](../images/image1.png)
+![Chat Histories](./images/image1.png)
 
 This is how the chat history feature looks like in action, allowing users to resume previous conversations.
 
 ### 2. Mobile view
-![Chat Histories](../images/image3.png)
+![Chat Histories](./images/image3.png)
 this screen shows how it looks in mobile
 
 
